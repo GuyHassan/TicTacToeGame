@@ -23,8 +23,10 @@ An explanation about the differences between the modes.
 
 #### Player vs. Player mode
 
+![1VS1](https://user-images.githubusercontent.com/33221427/61330864-479b5b00-a829-11e9-94d0-02551447f783.gif)
 
 #### Player vs. Computer mode
 
+![VsComputer](https://user-images.githubusercontent.com/33221427/61330908-5d108500-a829-11e9-93c1-41edf8690006.gif)
 
 
