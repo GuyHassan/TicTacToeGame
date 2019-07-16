@@ -1,4 +1,5 @@
 # Tic Tac Toe Game
+[The game](https://guyhassan.github.io/TicTacToeGame/)
 ### Introduction:
 The TicTacToe game contains 2 modes:
 - Player vs. Player - using.
